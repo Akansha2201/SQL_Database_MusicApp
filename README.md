@@ -3,19 +3,19 @@
 Welcome to the Windows Music Application, a feature-rich music player developed in C# using the ASP.NET framework. This application seamlessly integrates with MySQL Workbench for efficient database management, providing an intuitive graphical user interface (GUI) with advanced features such as album art display and complex database operations.
 
 # Technology Stack
-C#
-ASP.NET
-MySQL Workbench
-Visual Studio
-Git
-GitHub
-Installation
-To run the application locally, follow these steps:
+  C#
+  ASP.NET
+  MySQL Workbench
+  Visual Studio
+  Git
+  GitHub
 
-# Clone the repository to your local machine.
-Open the project in Visual Studio.
-Configure the database connection settings in the appsettings.json file.
-Run the application.
+# Installation
+To run the application locally, follow these steps:
+  Clone the repository to your local machine.
+  Open the project in Visual Studio.
+  Configure the database connection settings in the appsettings.json file.
+  Run the application.
 
 # Usage
 Explore the application's features, including an intuitive GUI, album art display, and seamless database interactions. Refer to the documentation for detailed usage instructions.
